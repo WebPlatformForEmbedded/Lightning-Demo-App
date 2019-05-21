@@ -1,0 +1,442 @@
+[
+  {
+    "id": 5,
+    "label": "popular on tv",
+    "data": [
+      {
+        "title":"Marvel's Agents of S.H.I.E.L.D.",
+        "year":"2013",
+        "path":"tv/popular/agentsofshield",
+        "id":1,
+        "cat":5,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"Agent Phil Coulson of S.H.I.E.L.D. (Strategic Homeland Intervention, Enforcement and Logistics Division) puts together a team of agents to investigate the new, the strange and the unknown around the globe, protecting the ordinary from the extraordinary."
+      },
+      {
+        "title":"Arrow",
+        "year":"2012",
+        "path":"tv/popular/arrow",
+        "id":2,
+        "cat":5,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow."
+      },
+      {
+        "title":"The Blacklist",
+        "year":"2013",
+        "path":"tv/popular/blacklist",
+        "id":3,
+        "cat":5,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"Raymond \"Red\" Reddington, one of the FBI's most wanted fugitives, surrenders in person at FBI Headquarters in Washington, D.C. He claims that he and the FBI have the same interests: bringing down dangerous criminals and terrorists. In the last two decades, he's made a list of criminals and terrorists that matter the most but the FBI cannot find because it does not know they exist. Reddington calls this \"The Blacklist\". Reddington will co-operate, but insists that he will speak only to Elizabeth Keen, a rookie FBI profiler."
+      },
+      {
+        "title":"Brooklyn Nine-Nine",
+        "year":"2013",
+        "path":"tv/popular/brooklyn",
+        "id":4,
+        "cat":5,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"A single-camera ensemble comedy following the lives of an eclectic group of detectives in a New York precinct, including one slacker who is forced to shape up when he gets a new boss."
+      },
+      {
+        "title":"Game of Thrones",
+        "year":"2011",
+        "path":"tv/popular/got",
+        "id":5,
+        "cat":5,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond."
+      },
+      {
+        "title":"Lucifer",
+        "year":"2016",
+        "path":"tv/popular/lucifer",
+        "id":6,
+        "cat":5,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape."
+      },
+      {
+        "title":"The Flash",
+        "year":"2014",
+        "path":"tv/popular/theflash",
+        "id":7,
+        "cat":5,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only \"meta-human\" who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won't be long before the world learns what Barry Allen has become...The Flash."
+      },
+      {
+        "title":"Marvel's Agents of S.H.I.E.L.D.",
+        "year":"2013",
+        "path":"tv/popular/agentsofshield",
+        "id":1,
+        "cat":5,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"Agent Phil Coulson of S.H.I.E.L.D. (Strategic Homeland Intervention, Enforcement and Logistics Division) puts together a team of agents to investigate the new, the strange and the unknown around the globe, protecting the ordinary from the extraordinary."
+      },
+      {
+        "title":"The Blacklist",
+        "year":"2013",
+        "path":"tv/popular/blacklist",
+        "id":3,
+        "cat":5,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"Raymond \"Red\" Reddington, one of the FBI's most wanted fugitives, surrenders in person at FBI Headquarters in Washington, D.C. He claims that he and the FBI have the same interests: bringing down dangerous criminals and terrorists. In the last two decades, he's made a list of criminals and terrorists that matter the most but the FBI cannot find because it does not know they exist. Reddington calls this \"The Blacklist\". Reddington will co-operate, but insists that he will speak only to Elizabeth Keen, a rookie FBI profiler."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "label": "on tv",
+    "data": [
+      {
+        "title":"Chernobyl",
+        "year":"2019",
+        "path":"tv/ontv/chernobyl",
+        "id":10,
+        "cat":6,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"A dramatization of the true story of one of the worst man-made catastrophes in history, the catastrophic nuclear accident at Chernobyl. A tale of the brave men and women who sacrificed to save Europe from unimaginable disaster."
+      },
+      {
+        "title":"Game of Thrones",
+        "year":"2011",
+        "path":"tv/ontv/got",
+        "id":5,
+        "cat":5,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond."
+      },
+      {
+        "title":"Grey's Anatomy",
+        "year":"2005",
+        "path":"tv/ontv/greysanatomy",
+        "id":12,
+        "cat":6,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"Follows the personal and professional lives of a group of doctors at Seattle’s Grey Sloan Memorial Hospital."
+      },
+      {
+        "title":"Riverdale",
+        "year":"2017",
+        "path":"tv/ontv/riverdale",
+        "id":13,
+        "cat":6,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"Set in the present, the series offers a bold, subversive take on Archie, Betty, Veronica and their friends, exploring the surreality of small-town life, the darkness and weirdness bubbling beneath Riverdale’s wholesome facade."
+      },
+      {
+        "title":"Supergirl",
+        "year":"2015",
+        "path":"tv/ontv/supergirl",
+        "id":14,
+        "cat":6,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"Twenty-four-year-old Kara Zor-El, who was taken in by the Danvers family when she was 13 after being sent away from Krypton, must learn to embrace her powers after previously hiding them. The Danvers teach her to be careful with her powers, until she has to reveal them during an unexpected disaster, setting her on her journey of heroism."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "label": "airing today",
+    "data": [
+      {
+        "title":"Brockmire",
+        "year":"2017",
+        "path":"tv/airingtoday/brockmire",
+        "id":15,
+        "cat":7,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"A famed major league baseball announcer who suffers an embarrassing and very public meltdown live on the air after discovering his beloved wife's serial infidelity decides to reclaim his career and love life in a small town a decade later."
+      },
+      {
+        "title":"Chicago Fire",
+        "year":"2012",
+        "path":"tv/airingtoday/chicagofire",
+        "id":16,
+        "cat":7,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"An edge-of-your-seat view into the lives of everyday heroes committed to one of America's noblest professions. For the firefighters, rescue squad and paramedics of Chicago Firehouse 51, no occupation is more stressful or dangerous, yet so rewarding and exhilarating. These courageous men and women are among the elite who forge headfirst into danger when everyone else is running the other way and whose actions make the difference between life and death."
+      },
+      {
+        "title":"HAPPY!",
+        "year":"2019",
+        "path":"tv/airingtoday/happy",
+        "id":17,
+        "cat":7,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"Corrupt ex-cop turned hitman Nick Sax's life is changed forever by a relentlessly positive, imaginary blue winged horse named Happy."
+      },
+      {
+        "title":"Pretty Little Liars: The Perfectionists",
+        "year":"2019",
+        "path":"tv/airingtoday/prettylittleliars",
+        "id":18,
+        "cat":7,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"In Beacon Heights, a seemingly perfect town, a group of three college friends struggle with the stress of being overachievers. In the aftermath of the town’s first murder, each Perfectionist hides behind a secret, a lie and an alibi."
+      },
+      {
+        "title":"Riverdale",
+        "year":"2017",
+        "path":"tv/airingtoday/riverdale",
+        "id":13,
+        "cat":7,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"Set in the present, the series offers a bold, subversive take on Archie, Betty, Veronica and their friends, exploring the surreality of small-town life, the darkness and weirdness bubbling beneath Riverdale’s wholesome facade."
+      },
+      {
+        "title":"Survivor",
+        "year":"2000",
+        "path":"tv/airingtoday/survivor",
+        "id":20,
+        "cat":7,
+        "cast":[
+          1
+        ],
+        "info":"A reality show contest where sixteen or more castaways split between two or more “Tribes” are taken to a remote isolated location and are forced to live off the land with meager supplies for roughly 39 days. Frequent physical challenges are used to pit the tribes against each other for rewards, such as food or luxuries, or for “Immunity”, forcing the other tribe to attend “Tribal Council”, where they must vote off one of their players."
+      },
+      {
+        "title":"What We Do in the Shadows",
+        "year":"2019",
+        "path":"tv/airingtoday/whatwedointheshadows",
+        "id":21,
+        "cat":7,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"A documentary-style look into the daily (or rather, nightly) lives of three vampires in Staten Island who have “lived” together for hundreds and hundreds of years."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "label": "top rated tv",
+    "data": [
+      {
+        "title":"Breaking Bad",
+        "year":"2008",
+        "path":"tv/toprated/breakingbad",
+        "id":22,
+        "cat":8,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"When Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime."
+      },
+      {
+        "title":"Cobra Kai",
+        "year":"2018",
+        "path":"tv/toprated/cobrakai",
+        "id":23,
+        "cat":8,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"This Karate Kid sequel series picks up 30 years after the events of the 1984 All Valley Karate Tournament and finds Johnny Lawrence on the hunt for redemption by reopening the infamous Cobra Kai karate dojo. This reignites his old rivalry with the successful Daniel LaRusso, who has been working to maintain the balance in his life without mentor Mr. Miyagi."
+      },
+      {
+        "title":"Fargo",
+        "year":"2014",
+        "path":"tv/toprated/fargo",
+        "id":24,
+        "cat":8,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"A close-knit anthology series dealing with stories involving malice, violence and murder based in and around Minnesota."
+      },
+      {
+        "title":"The Haunting of Hill House",
+        "year":"2018",
+        "path":"tv/toprated/haunting",
+        "id":25,
+        "cat":8,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"The Crains, a fractured family, confront haunting memories of their old home and the terrifying events that drove them from it."
+      },
+      {
+        "title":"Peaky Blinders",
+        "year":"2013",
+        "path":"tv/toprated/peakyblinder",
+        "id":26,
+        "cat":8,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world."
+      },
+      {
+        "title":"Stranger Things",
+        "year":"2016",
+        "path":"tv/toprated/strangerthings",
+        "id":27,
+        "cat":8,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl."
+      },
+      {
+        "title":"The Wire",
+        "year":"2002",
+        "path":"tv/toprated/thewire",
+        "id":28,
+        "cat":8,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"Told from the points of view of both the Baltimore homicide and narcotics detectives and their targets, the series captures a universe in which the national war on drugs has become a permanent, self-sustaining bureaucracy, and distinctions between good and evil are routinely obliterated."
+      }
+    ]
+  }
+]

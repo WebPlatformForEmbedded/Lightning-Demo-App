@@ -1,0 +1,443 @@
+[
+  {"id":1,"label": "popular movies",
+    "data": [
+      {
+        "title":"After",
+        "year":"2019",
+        "path":"movies/popular/after",
+        "id":1,
+        "cat":1,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"A young woman falls for a guy with a dark secret and the two embark on a rocky relationship."
+      },
+      {
+        "title":"Avengers: Endgame",
+        "year":"2019",
+        "path":"movies/popular/avengers",
+        "id":2,
+        "cat":1,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store."
+      },
+      {
+        "title":"Captain Marvel",
+        "year":"2019",
+        "path":"movies/popular/captainmarvel",
+        "id":3,
+        "cat":1,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe."
+      },
+      {
+        "title":"Cold Pursuit",
+        "year":"2019",
+        "path":"movies/popular/coldpursuit",
+        "id":4,
+        "cat":1,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"Nels Coxman, a snowplow driver recently awarded the title of citizen of the year, triggers a series of violence and misunderstandings between two rival gangs after he starts avenging his son's death."
+      },
+      {
+        "title":"Hellboy",
+        "year":"2019",
+        "path":"movies/popular/hellboy",
+        "id":5,
+        "cat":1,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"Hellboy comes to England, where he must defeat Nimue, Merlin's consort and the Blood Queen. But their battle will bring about the end of the world, a fate he desperately tries to turn away."
+      },
+      {
+        "title":"Pokémon Detecitive Pikachu",
+        "year":"2019",
+        "path":"movies/popular/pikachu",
+        "id":6,
+        "cat":1,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"In a world where people collect pocket-size monsters (Pokémon) to do battle, a boy comes across an intelligent monster who seeks to be a detective."
+      },
+      {
+        "title":"Shazam!",
+        "year":"2019",
+        "path":"movies/popular/shazam",
+        "id":7,
+        "cat":1,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"A boy is given the ability to become an adult superhero in times of need with a single magic word."
+      },
+      {
+        "title":"After",
+        "year":"2019",
+        "path":"movies/popular/after",
+        "id":1,
+        "cat":1,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"A young woman falls for a guy with a dark secret and the two embark on a rocky relationship."
+      },
+      {
+        "title":"Avengers: Endgame",
+        "year":"2019",
+        "path":"movies/newreleases/avengers",
+        "id":2,
+        "cat":1,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "label": "new releases",
+    "data": [
+      {
+        "title": "Extremely Wicked, Shockingly Evil and Vile",
+        "year": "2019",
+        "path": "movies/newreleases/extremelywicked",
+        "id": 10,
+        "cat": 2,
+        "cast": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info": "A chronicle of the crimes of Ted Bundy, from the perspective of his longtime girlfriend, Elizabeth Kloepfer, who refused to believe the truth about him for years."
+      },
+      {
+        "title": "Hellboy",
+        "year": "2019",
+        "path": "movies/newreleases/hellboy",
+        "id": 5,
+        "cat": 1,
+        "cast": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info": "Hellboy comes to England, where he must defeat Nimue, Merlin's consort and the Blood Queen. But their battle will bring about the end of the world, a fate he desperately tries to turn away."
+      },
+      {
+        "title": "John Wick: Chapter 3 – Parabellum",
+        "year": "2019",
+        "path": "movies/newreleases/johnwick",
+        "id": 12,
+        "cat": 2,
+        "cast": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info": "In this third installment of the adrenaline-fueled action franchise, super-assassin John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin’s guild, the High Table, John Wick is excommunicado, but the world’s most ruthless hit men and women await his every turn."
+      },
+      {
+        "title": "Pokémon Detecitive Pikachu",
+        "year": "2019",
+        "path": "movies/newreleases/pikachu",
+        "id": 6,
+        "cat": 2,
+        "cast": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info": "In a world where people collect pocket-size monsters (Pokémon) to do battle, a boy comes across an intelligent monster who seeks to be a detective."
+      },
+      {
+        "title": "The Hustle",
+        "year": "2019",
+        "path": "movies/newreleases/thehustle",
+        "id": 14,
+        "cat": 2,
+        "cast": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info": "Two female scam artists, one low rent and the other high class, compete to swindle a naïve tech prodigy out of his fortune. A remake of the 1988 comedy \"Dirty Rotten Scoundrels.\""
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "label": "coming soon",
+    "data": [
+      {
+        "title":"Aladdin",
+        "year":"2019",
+        "path":"movies/comingsoon/aladdin",
+        "id":15,
+        "cat":3,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"A live-action retelling of the 1992 Disney film of the same name."
+      },
+      {
+        "title":"Booksmart",
+        "year":"2019",
+        "path":"movies/comingsoon/booksmart",
+        "id":16,
+        "cat":3,
+        "cast":[
+          1,
+          2,
+          3,
+          4
+        ],
+        "info":"Two academic teenage superstars realize, on the eve of their high school graduation, that they should have worked less and played more. Determined to never fall short of their peers, the girls set out on a mission to cram four years of fun into one night."
+      },
+      {
+        "title":"Brightburn",
+        "year":"2019",
+        "path":"movies/comingsoon/brightburn",
+        "id":17,
+        "cat":3,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"A child from another world crash-lands on Earth, but instead of becoming a hero to mankind, he is an evil little boy."
+      },
+      {
+        "title":"Dark Phoenix",
+        "year":"2019",
+        "path":"movies/comingsoon/darkphoenix",
+        "id":18,
+        "cat":3,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"The X-Men face their most formidable and powerful foe when one of their own, Jean Grey, starts to spiral out of control. During a rescue mission in outer space, Jean is nearly killed when she's hit by a mysterious cosmic force. Once she returns home, this force not only makes her infinitely more powerful, but far more unstable. The X-Men must now band together to save her soul and battle aliens that want to use Grey's new abilities to rule the galaxy."
+      },
+      {
+        "title":"Godzilla: King of the Monsters",
+        "year":"2019",
+        "path":"movies/comingsoon/godzilla",
+        "id":19,
+        "cat":3,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"The new story follows the heroic efforts of the crypto-zoological agency Monarch as its members face off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah. When these ancient super-species—thought to be mere myths—rise again, they all vie for supremacy, leaving humanity’s very existence hanging in the balance."
+      },
+      {
+        "title":"Rocketman",
+        "year":"2019",
+        "path":"movies/comingsoon/rocketman",
+        "id":20,
+        "cat":3,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"The story of Elton John's life, from his years as a prodigy at the Royal Academy of Music through his influential and enduring musical partnership with Bernie Taupin."
+      },
+      {
+        "title":"The Secret Life of Pets 2 ",
+        "year":"2019",
+        "path":"movies/comingsoon/secretlifeofpets",
+        "id":21,
+        "cat":3,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"The further adventures of Max the dog and his furry animal friends."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "label": "top rated movies",
+    "data": [
+      {
+        "title":"Avengers: Endgame",
+        "year":"2019",
+        "path":"movies/toprated/avengers",
+        "id":2,
+        "cat":4,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store."
+      },
+      {
+        "title":"The Godfather",
+        "year":"1972",
+        "path":"movies/toprated/godfather",
+        "id":23,
+        "cat":4,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge."
+      },
+      {
+        "title":"The Godfather: Part II",
+        "year":"1974",
+        "path":"movies/toprated/godfatherii",
+        "id":24,
+        "cat":4,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba."
+      },
+      {
+        "title":"The Green Mile",
+        "year":"1999",
+        "path":"movies/toprated/greenmile",
+        "id":25,
+        "cat":4,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution."
+      },
+      {
+        "title":"Schindler's List",
+        "year":"1993",
+        "path":"movies/toprated/schindlerslist",
+        "id":26,
+        "cat":4,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II."
+      },
+      {
+        "title":"The Shawshank Redemption",
+        "year":"1994",
+        "path":"movies/toprated/shawshankredemption",
+        "id":27,
+        "cat":4,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope."
+      },
+      {
+        "title":"Spirited Away",
+        "year":"2001",
+        "path":"movies/toprated/spiritedaway",
+        "id":28,
+        "cat":4,
+        "cast":[
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "info":"A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family."
+      }
+    ]
+  }
+]
