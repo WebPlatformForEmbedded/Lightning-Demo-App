@@ -9,6 +9,6 @@ If it works you're set up and ready to start building your app!
 
 If you don't have a web server installed you could run instant-server from the directory:
 ```
-sudo npm install -g instant-server
-instant -p 8081 ./
+sudo npm install -g http-server
+http-server -c-1
 ```
